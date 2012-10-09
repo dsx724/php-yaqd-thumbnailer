@@ -97,6 +97,6 @@ Controller::start();
 </head>
 <body>
 <?php Controller::display(); ?>
-<br/><a href="https://github.com/dxlnmix/Yet-Another-Quick-and-Dirty-Thumbnailer">Yet Another Quick and Dirty (YAQD) Thumbnailer</a> by Da Xue &copy; 2011<br/>MVC Pattern<br/>APC Cacher<br/>GD2 Graphics<br/>One File<br/>100 Line Count
+<br/><a href="https://github.com/dsx724/php-yaqd-thumbnailer">Yet Another Quick and Dirty PHP Thumbnailer</a> by Da Xue &copy; 2012<br/>APC Cacher<br/>GD2 Graphics<br/>One File<br/>100 Line Count
 </body>
 </html>
